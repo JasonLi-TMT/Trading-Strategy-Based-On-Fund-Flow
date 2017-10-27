@@ -8,13 +8,21 @@
 
 + Performance: For different strategy, we have different performance. The picture result is listed in the output folder. Data result is in Output data folder
 
-![Link to performance ](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/d_27.png)
+![Link to performance ](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/17_ans.png)
+![Link to performance ](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/12_ans.png)
+![Link to performance ](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/1year_ans.png)
+
+
+12 days: based on Return/Volatility=4.5, Benchmark=2.95. (short term strategy)
+17 days: based on Return=518%, Benchmark=124%. (short term strategy)
+One year: Based on Return/Volatility, Return/Volatility=4.97, Benchmark=2.95 (long term strategy)
 
 
 + Impression: This project is done based on my interest, there could be huge improvement space. Due to other intern project and course burden, I don't have time to improve it, I will try to improve it later when I am free.
 
 
-Overview
++ Overview
+
 
 Reversion model based on Fund Flow. 
 (If x days moving average of Fund Flow crossover above y days moving average, short SPY, otherwise long SPY
@@ -39,10 +47,4 @@ Backtested Performance
 
 
 
-
-
-
-12 days: based on Return/Volatility=4.5, Benchmark=2.95. (short term strategy)
-17 days: based on Return=518%, Benchmark=124%. (short term strategy)
-One year: Based on Return/Volatility, Return/Volatility=4.97, Benchmark=2.95 (long term strategy)
 
