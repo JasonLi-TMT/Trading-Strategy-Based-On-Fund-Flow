@@ -8,4 +8,7 @@
 
 + Performance: For different strategy, we have different performance. The picture result is listed in the output folder. Data result is in Output data folder
 
+![alt text](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/d_27.png)
+
+
 + Impression: This project is done based on my interest, there could be huge improvement space. Due to other intern project and course burden, I don't have time to improve it, I will try to improve it later when I am free.
