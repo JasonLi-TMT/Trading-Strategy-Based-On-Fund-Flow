@@ -15,11 +15,11 @@
 ![Link to performance ](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/1year_ans.png)
 
 
-+ 12 days: based on Return/Volatility=4.5, Benchmark=2.95. (short term strategy)
+    12 days: based on Return/Volatility=4.5, Benchmark=2.95. (short term strategy)
 
-+ 17 days: based on Return=518%, Benchmark=124%. (short term strategy)
+    17 days: based on Return=518%, Benchmark=124%. (short term strategy)
 
-+ One year: Based on Return/Volatility, Return/Volatility=4.97, Benchmark=2.95 (long term strategy)
+    One year: Based on Return/Volatility, Return/Volatility=4.97, Benchmark=2.95 (long term strategy)
 
 
 + Impression: This project is done based on my interest, there could be huge improvement space. Due to other intern project and course burden, I don't have time to improve it, I will try to improve it later when I am free.
