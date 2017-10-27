@@ -8,7 +8,7 @@
 
 + Performance: For different strategy, we have different performance. The picture result is listed in the output folder. Data result is in Output data folder
 
-![Link to performance ](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/17_ans.png)
+![Link to performance ](https://raw.githubusercontent.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/17_ans.png)
 
 ![Link to performance ](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/12_ans.png)
 
