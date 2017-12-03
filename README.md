@@ -15,8 +15,7 @@
 ![ScreenShot](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/blob/master/Output/17_ans.png)
 
 
-![Link to performance ](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/tree/master/Output/1year_ans.png)
-
+![ScreenShot](https://github.com/ZishuoLi/Trading-Strategy-Based-On-Fund-Flow/blob/master/Output/1year_ans.png)
 
     12 days: based on Return/Volatility=4.5, Benchmark=2.95. (short term strategy)
 
